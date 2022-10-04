@@ -1,8 +1,8 @@
-<h1 align="center">𝘏𝘦𝘭𝘭𝘰, 𝘐𝘵'𝘴 𝘮𝘦 ƜЄƝƊƖƦƛƊ 🇪🇹</h1>
+<h1 align="center">𝘏𝘐 👋, 𝘐𝘵'𝘴 𝘮𝘦 ƜЄƝƊƖƦƛƊ 🇪🇹</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Scientist%20and%20Engineer-%E2%AD%90%EF%B8%8F-blue?style=for-the-badge&logo=linux&logoColor=black&labelColor=red&color=green" />
-  <img src="https://img.shields.io/badge/Python%20Developer-%E2%AD%90%EF%B8%8F-green?style=for-the-badge&logo=python&labelColor=yellow&color=blue" /> 
-  <img src="https://img.shields.io/badge/Competitive%20Programer-%E2%AD%90%EF%B8%8F-green?style=for-the-badge&logo=acm&color=white" /> 
+  <img src="https://img.shields.io/badge/Computer%20Scientist%20and%20Engineer--blue?style=for-the-badge&logo=linux&logoColor=black&labelColor=green&color=22272e" />
+  <img src="https://img.shields.io/badge/Python%20Developer--green?style=for-the-badge&logo=python&labelColor=ffff00&color=22272e" /> 
+  <img src="https://img.shields.io/badge/Competitive%20Programer--green?style=for-the-badge&logo=acm&labelColor=red&color=22272e" /> 
 </p>
 
 <h2>About Me</h2>
