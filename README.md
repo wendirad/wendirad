@@ -1,4 +1,4 @@
-<h1 align="center">𝘏𝘦𝘭𝘭𝘰, 𝘐𝘵'𝘴 𝘮𝘦 ƜЄƝƊƖƦƛƊ 🧑‍💻</h1>
+<h1 align="center">𝘏𝘦𝘭𝘭𝘰, 𝘐𝘵'𝘴 𝘮𝘦 ƜЄƝƊƖƦƛƊ 🇪🇹</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Scientist%20and%20Engineer-%E2%AD%90%EF%B8%8F-blue?style=for-the-badge&logo=linux&logoColor=black&labelColor=red&color=green" />
   <img src="https://img.shields.io/badge/Python%20Developer-%E2%AD%90%EF%B8%8F-green?style=for-the-badge&logo=python&labelColor=yellow&color=blue" /> 
@@ -16,7 +16,7 @@
   <img src="https://www.php.net/favicon.svg?v=2" height="30" /> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30"> &nbsp;&nbsp;
   <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" height="30" /> &nbsp;&nbsp;
-  <img src="https://www.django-rest-framework.org/img/logo.png" height="30" /> &nbsp;&nbsp;
+  <img src="https://t1.daumcdn.net/cfile/tistory/9916DC335C600DFC25" height="30" /> &nbsp;&nbsp;
   <img src="https://graphql.org/img/logo.svg" height="30" /> &nbsp;&nbsp;
   <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height="30" /> &nbsp;&nbsp;
   <img src="https://www.postgresql.org/favicon.ico" height="30" /> &nbsp;&nbsp;
@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendirad&theme=slateorange&line_height=18&langs_count=3&hide=css,html&layout=compact&hide_border=true" width="45%"> &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendirad&theme=slateorange&langs_count=3&hide=css,html&layout=compact&hide_border=true&" width="45%"> &nbsp;&nbsp;
   <img src="https://activity-graph.herokuapp.com/graph?username=wendirad&theme=one-dark&radius=10&bg_color=36393f&hide_border=true&hide_title=true" width="45%" />
 </p>
 
