@@ -55,4 +55,17 @@
   <a href="mailto:wendiradame@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="40"></a> &nbsp;&nbsp;
   <a href="https://t.me/sco_ped"><img src="https://telegram.org/img/website_icon.svg" height="40"></a> &nbsp;&nbsp;
   <a href="https://facebook.com/wendirad-demelash.1"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" height="40"></a>
+  <a href="https://twitter.com/wendiradd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="40"></a>
 </p>
+
+## GitHub Stats
+<p align="center">  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wendirad&theme=slateorange&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" width="45%"/> &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wendirad&show_icons=true&theme=slateorange&hide_border=true&border_radius=10&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&line_height=29" width="45%" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendirad&theme=slateorange&langs_count=3&hide=css,html&layout=compact&hide_border=true" width="45%"> &nbsp;&nbsp;
+  <img align="center" src="https://blooming-savannah-50472.herokuapp.com/graph?username=wendirad&theme=react-dark&hide_border=true" width="45%"/>
+</p>
+
+<h1 align="center">𝒯𝒽𝒶𝓃𝓀 𝒴𝑜𝓊!</h1>
