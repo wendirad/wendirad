@@ -61,8 +61,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wendirad&theme=slateorange&langs_count=3&hide=css,html&layout=compact&hide_border=true&" width="45%"> &nbsp;&nbsp;
-  <img src="https://activity-graph.herokuapp.com/graph?username=wendirad&theme=one-dark&radius=10&bg_color=36393f&hide_border=true" width="45%" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendirad&theme=slateorange&line_height=18&langs_count=3&hide=css,html&layout=compact&hide_border=true" width="45%"> &nbsp;&nbsp;
+  <img src="https://activity-graph.herokuapp.com/graph?username=wendirad&theme=one-dark&radius=10&bg_color=36393f&hide_border=true&hide_title=true" width="45%" />
 </p>
 
 <p align="center">
