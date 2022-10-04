@@ -24,12 +24,7 @@
   <img src="https://account.mongodb.com/static/images/favicon.ico" height="30" /> &nbsp;&nbsp;
   <img src="https://git-scm.com/favicon.ico" height="30" />
  </p>
- <h2 align="center">Oranizations</h3>
- <p align="center">
-  <a href="https://github.com/backostech/"><img src="https://avatars.githubusercontent.com/u/109460039?s=200&v=4" height="50" /></a> &nbsp;&nbsp;
-  <a href="https://github.com/rebunitech/"><img src="https://avatars.githubusercontent.com/u/88507975?s=200&v=4" height="50" /></a>
- </p>
- <hr />
+<hr />
 
 ## Projects
 ### Open Source
@@ -51,12 +46,12 @@
 
 ## Find Me
 <p align="center">
-  <a href="https://github.com/wendirad"><img src="https://github.com/fluidicon.png" height="40"></a> &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/wendirad-demelash"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="40"></a> &nbsp;&nbsp;
-  <a href="mailto:wendiradame@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="40"></a> &nbsp;&nbsp;
-  <a href="https://t.me/sco_ped"><img src="https://telegram.org/img/website_icon.svg" height="40"></a> &nbsp;&nbsp;
-  <a href="https://facebook.com/wendirad-demelash.1"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" height="40"></a> &nbsp;&nbsp;
-  <a href="https://twitter.com/wendiradd"><img src="https://abs.twimg.com/favicons/twitter.2.ico" height="40"></a>
+  <a href="https://github.com/wendirad"><img src="https://github.com/fluidicon.png" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/wendirad-demelash"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:wendiradame@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/sco_ped"><img src="https://telegram.org/img/website_icon.svg" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/wendirad-demelash.1"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/wendiradd"><img src="https://abs.twimg.com/favicons/twitter.2.ico" height="50"></a>
 </p>
 
 ## GitHub Stats
@@ -66,8 +61,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wendirad&theme=slateorange&langs_count=3&hide=css,html&layout=compact&hide_border=true" width="45%"> &nbsp;&nbsp;
-  <img src="https://blooming-savannah-50472.herokuapp.com/graph?username=wendirad&theme=react-dark&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wendirad&theme=slateorange&langs_count=3&hide=css,html&layout=compact&hide_border=true&" width="45%"> &nbsp;&nbsp;
+  <img src="https://activity-graph.herokuapp.com/graph?username=wendirad&theme=one-dark&radius=10&bg_color=36393f&hide_border=true" width="45%" height="150"/>
 </p>
 
 <p align="center">
@@ -77,6 +72,6 @@
 <hr />
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/wendirad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="300" /></a>
+  <a href="https://www.buymeacoffee.com/wendirad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
 <h1 align="center">𝒯𝒽𝒶𝓃𝓀 𝒴𝑜𝓊!</h1>
