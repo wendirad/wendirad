@@ -8,9 +8,10 @@
 <h2>About Me</h2>
 <p align="justify">Motivated Python developer trained with 3+ years of experience. Highly effective at backend web development and task automation. Exceptional interpersonal, communication, and multitasking abilities. Prepared to deliver first-rate results to clients. I am a young talented African, a strong motivation for work, and has skills with best practices. I can work collaboratively in different working environments and team compositions. I am always ready to accept new ideas to build a strong technical background, also can work on modifying existing or adding new requirements to the existing system.</p>
 
-<hr>
+<hr />
 <h2 align="center">Tools</h3>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" /> &nbsp;&nbsp;
   <img src="https://www.python.org/static/favicon.ico" height="30" /> &nbsp;&nbsp;
   <img src="https://www.php.net/favicon.svg?v=2" height="30" /> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30"> &nbsp;&nbsp;
@@ -28,7 +29,7 @@
   <a href="https://github.com/backostech/"><img src="https://avatars.githubusercontent.com/u/109460039?s=200&v=4" height="50" /></a> &nbsp;&nbsp;
   <a href="https://github.com/rebunitech/"><img src="https://avatars.githubusercontent.com/u/88507975?s=200&v=4" height="50" /></a>
  </p>
- <hr>
+ <hr />
 
 ## Projects
 ### Open Source
@@ -54,18 +55,28 @@
   <a href="https://linkedin.com/in/wendirad-demelash"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="40"></a> &nbsp;&nbsp;
   <a href="mailto:wendiradame@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="40"></a> &nbsp;&nbsp;
   <a href="https://t.me/sco_ped"><img src="https://telegram.org/img/website_icon.svg" height="40"></a> &nbsp;&nbsp;
-  <a href="https://facebook.com/wendirad-demelash.1"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" height="40"></a>
-  <a href="https://twitter.com/wendiradd"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="40"></a>
+  <a href="https://facebook.com/wendirad-demelash.1"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" height="40"></a> &nbsp;&nbsp;
+  <a href="https://twitter.com/wendiradd"><img src="https://abs.twimg.com/favicons/twitter.2.ico" height="40"></a>
 </p>
 
 ## GitHub Stats
 <p align="center">  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wendirad&theme=slateorange&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" width="45%"/> &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wendirad&show_icons=true&theme=slateorange&hide_border=true&border_radius=10&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&line_height=29" width="45%" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendirad&theme=slateorange&langs_count=3&hide=css,html&layout=compact&hide_border=true" width="45%"> &nbsp;&nbsp;
-  <img align="center" src="https://blooming-savannah-50472.herokuapp.com/graph?username=wendirad&theme=react-dark&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wendirad&theme=slateorange&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" width="45%"/> &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=wendirad&show_icons=true&theme=slateorange&hide_border=true&border_radius=10&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&line_height=29" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wendirad&theme=slateorange&langs_count=3&hide=css,html&layout=compact&hide_border=true" width="45%"> &nbsp;&nbsp;
+  <img src="https://blooming-savannah-50472.herokuapp.com/graph?username=wendirad&theme=react-dark&hide_border=true" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wendirad&columns=4&row=1&theme=gitdimmed&margin-w=15" width="90%"/>
+</p>
+
+<hr />
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/wendirad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="300" /></a>
+</p>
 <h1 align="center">𝒯𝒽𝒶𝓃𝓀 𝒴𝑜𝓊!</h1>
