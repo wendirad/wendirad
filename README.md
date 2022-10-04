@@ -4,7 +4,7 @@
 </p>
 
 <h2>About Me</h2>
-<p align="justify">Motivated Python developer trained with 3+ years of experience. Highly effective at backend web development and task automation. Exceptional interpersonal, communication, and multitasking abilities. Prepared to deliver first-rate results to clients. I am a young talented African, a strong motivation for work, and has skills with best practices. I can work collaboratively in different working environments and team compositions. I am always ready to accept new ideas to build a strong technical background, also can work on modifying existing or adding new requirements to the existing system.</p>
+<p align="justify">ᴍᴏᴛɪᴠᴀᴛᴇᴅ ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴛʀᴀɪɴᴇᴅ ᴡɪᴛʜ 𝟹+ ʏᴇᴀʀs ᴏғ ᴇxᴘᴇʀɪᴇɴᴄᴇ. ʜɪɢʜʟʏ ᴇғғᴇᴄᴛɪᴠᴇ ᴀᴛ ʙᴀᴄᴋᴇɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ᴛᴀsᴋ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ. ᴇxᴄᴇᴘᴛɪᴏɴᴀʟ ɪɴᴛᴇʀᴘᴇʀsᴏɴᴀʟ, ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ, ᴀɴᴅ ᴍᴜʟᴛɪᴛᴀsᴋɪɴɢ ᴀʙɪʟɪᴛɪᴇs. ᴘʀᴇᴘᴀʀᴇᴅ ᴛᴏ ᴅᴇʟɪᴠᴇʀ ғɪʀsᴛ-ʀᴀᴛᴇ ʀᴇsᴜʟᴛs ᴛᴏ ᴄʟɪᴇɴᴛs. ɪ ᴀᴍ ᴀ ʏᴏᴜɴɢ ᴛᴀʟᴇɴᴛᴇᴅ ᴀғʀɪᴄᴀɴ, ᴀ sᴛʀᴏɴɢ ᴍᴏᴛɪᴠᴀᴛɪᴏɴ ғᴏʀ ᴡᴏʀᴋ, ᴀɴᴅ ʜᴀs sᴋɪʟʟs ᴡɪᴛʜ ʙᴇsᴛ ᴘʀᴀᴄᴛɪᴄᴇs. ɪ ᴄᴀɴ ᴡᴏʀᴋ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴠᴇʟʏ ɪɴ ᴅɪғғᴇʀᴇɴᴛ ᴡᴏʀᴋɪɴɢ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛs ᴀɴᴅ ᴛᴇᴀᴍ ᴄᴏᴍᴘᴏsɪᴛɪᴏɴs. ɪ ᴀᴍ ᴀʟᴡᴀʏs ʀᴇᴀᴅʏ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ɴᴇᴡ ɪᴅᴇᴀs ᴛᴏ ʙᴜɪʟᴅ ᴀ sᴛʀᴏɴɢ ᴛᴇᴄʜɴɪᴄᴀʟ ʙᴀᴄᴋɢʀᴏᴜɴᴅ, ᴀʟsᴏ ᴄᴀɴ ᴡᴏʀᴋ ᴏɴ ᴍᴏᴅɪғʏɪɴɢ ᴇxɪsᴛɪɴɢ ᴏʀ ᴀᴅᴅɪɴɢ ɴᴇᴡ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs ᴛᴏ ᴛʜᴇ ᴇxɪsᴛɪɴɢ sʏsᴛᴇᴍ.</p>
 
 <hr />
 <h2 align="center">Tools</h3>
@@ -36,8 +36,8 @@
 * [Analog Filter Design](https://github.com/rebunitech/analog.filter.design) - Python analog filter design for high frequency voice removal.
 * [Deterministic Finite Automata (DFA)](https://github.com/rebunitech/deterministic.finite.automata) - Deterministic Finite Automata (DFA) Implementation.
 * [Rebuni Online Education Platform](https://github.com/rebunitech/rebuni.online.education.platform) - Web based online education platform using native PHP with MVC.
-* [Dormitory Management System](https://github.com/Wendirad/Dormtary-System) - Dormtary Management System with basic functionality using C++.
-* [3D Object Desgin](https://github.com/Wendirad/cs1graphics---3D-objects) - Design 3D geometry objects using python cs1graphics module.
+* [Dormitory Management System](https://github.com/wendirad/Dormtary-System) - Dormtary Management System with basic functionality using C++.
+* [3D Object Desgin](https://github.com/wendirad/cs1graphics---3D-objects) - Design 3D geometry objects using python cs1graphics module.
 
 ### Contributions
 * [aiogram](https://github.com/aiogram/agioram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp. 
