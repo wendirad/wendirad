@@ -1,8 +1,6 @@
 <h1 align="center">𝘏𝘐 👋, 𝘐𝘵'𝘴 𝘮𝘦 ƜЄƝƊƖƦƛƊ 🇪🇹</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Scientist%20and%20Engineer--blue?style=for-the-badge&logo=linux&logoColor=black&labelColor=green&color=22272e" />
-  <img src="https://img.shields.io/badge/Python%20Developer--green?style=for-the-badge&logo=python&labelColor=ffff00&color=22272e" /> 
-  <img src="https://img.shields.io/badge/Competitive%20Programer--green?style=for-the-badge&logo=acm&labelColor=red&color=22272e" /> 
+  <img src="https://img.shields.io/badge/Computer%20Engineer-➕-blue?style=for-the-badge&logo=linux&logoColor=black&labelColor=green&color=ffffff" /><img src="https://img.shields.io/badge/Python%20Developer-➕-green?style=for-the-badge&logo=python&labelColor=ffff00&color=ffffff" /><img src="https://img.shields.io/badge/Competitive%20Programer--green?style=for-the-badge&logo=acm&labelColor=red&color=22272e" /> 
 </p>
 
 <h2>About Me</h2>
@@ -11,18 +9,18 @@
 <hr />
 <h2 align="center">Tools</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" /> &nbsp;&nbsp;
-  <img src="https://www.python.org/static/favicon.ico" height="30" /> &nbsp;&nbsp;
-  <img src="https://www.php.net/favicon.svg?v=2" height="30" /> &nbsp;&nbsp;
+  <a href="https://linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" /></a> &nbsp;&nbsp;
+  <a href="https://www.python.org"><img src="https://www.python.org/static/favicon.ico" height="30" /></a> &nbsp;&nbsp;
+  <a href="https://www.php.net"><img src="https://www.php.net/favicon.svg?v=2" height="30" /></a> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30"> &nbsp;&nbsp;
-  <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" height="30" /> &nbsp;&nbsp;
-  <img src="https://t1.daumcdn.net/cfile/tistory/9916DC335C600DFC25" height="30" /> &nbsp;&nbsp;
-  <img src="https://graphql.org/img/logo.svg" height="30" /> &nbsp;&nbsp;
-  <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height="30" /> &nbsp;&nbsp;
-  <img src="https://www.postgresql.org/favicon.ico" height="30" /> &nbsp;&nbsp;
-  <img src="https://labs.mysql.com/common/themes/sakila/favicon.ico" height="30" /> &nbsp;&nbsp;
-  <img src="https://account.mongodb.com/static/images/favicon.ico" height="30" /> &nbsp;&nbsp;
-  <img src="https://git-scm.com/favicon.ico" height="30" />
+  <a href="https://djangoproject.com"><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" height="30" /></a> &nbsp;&nbsp;
+  <a href="https://www.django-rest-framework.org/"><img src="https://t1.daumcdn.net/cfile/tistory/9916DC335C600DFC25" height="30" /></a> &nbsp;&nbsp;
+  <a href="https://graphql.org"><img src="https://graphql.org/img/logo.svg" height="30" /></a> &nbsp;&nbsp;
+  <a href="https://docs.aiogram.dev/"><img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height="30" /></a> &nbsp;&nbsp;
+  <a href="https://www.postgresql.org"><img src="https://www.postgresql.org/favicon.ico" height="30" /></a> &nbsp;&nbsp;
+  <a href="https://www.mysql.com"><img src="https://labs.mysql.com/common/themes/sakila/favicon.ico" height="30" /></a> &nbsp;&nbsp;
+  <a href="https://www.monodb.com"><img src="https://account.mongodb.com/static/images/favicon.ico" height="30" /></a> &nbsp;&nbsp;
+  <a href="https://git-scm.com"><img src="https://git-scm.com/favicon.ico" height="30" /></a>
  </p>
 <hr />
 
@@ -57,7 +55,7 @@
 ## GitHub Stats
 <p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wendirad&theme=slateorange&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" width="45%"/> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=wendirad&show_icons=true&theme=slateorange&hide_border=true&border_radius=10&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&line_height=29" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wendirad&show_icons=true&theme=slateorange&hide_border=true&border_radius=10&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&line_height=29.5" width="45%" />
 </p>
 
 <p align="center">
