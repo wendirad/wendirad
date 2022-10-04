@@ -9,28 +9,24 @@
 <p align="justify">Motivated Python developer trained with 3+ years of experience. Highly effective at backend web development and task automation. Exceptional interpersonal, communication, and multitasking abilities. Prepared to deliver first-rate results to clients. I am a young talented African, a strong motivation for work, and has skills with best practices. I can work collaboratively in different working environments and team compositions. I am always ready to accept new ideas to build a strong technical background, also can work on modifying existing or adding new requirements to the existing system.</p>
 
 <hr>
+<h2 align="center">Tools</h3>
 <p align="center">
-  <img src="https://www.python.org/static/favicon.ico" height="30" /> 
-  <img src="https://www.php.net/favicon.svg?v=2" height="30" /> 
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="30">
-</p>
-<p align="center">
-  <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" height="30" /> 
-  <img src="https://www.django-rest-framework.org/img/logo.png" height="30" /> 
-  <img src="https://graphql.org/img/logo.svg" height="30" /> 
-  <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height="30" /> 
-</p>
- <p align="center">
-  <img src="https://www.postgresql.org/favicon.ico" height="30" /> 
-  <img src="https://labs.mysql.com/common/themes/sakila/favicon.ico" height="30" /> 
-  <img src="https://account.mongodb.com/static/images/favicon.ico" height="30" /> 
+  <img src="https://www.python.org/static/favicon.ico" height="30" /> &nbsp;&nbsp;
+  <img src="https://www.php.net/favicon.svg?v=2" height="30" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30"> &nbsp;&nbsp;
+  <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" height="30" /> &nbsp;&nbsp;
+  <img src="https://www.django-rest-framework.org/img/logo.png" height="30" /> &nbsp;&nbsp;
+  <img src="https://graphql.org/img/logo.svg" height="30" /> &nbsp;&nbsp;
+  <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" height="30" /> &nbsp;&nbsp;
+  <img src="https://www.postgresql.org/favicon.ico" height="30" /> &nbsp;&nbsp;
+  <img src="https://labs.mysql.com/common/themes/sakila/favicon.ico" height="30" /> &nbsp;&nbsp;
+  <img src="https://account.mongodb.com/static/images/favicon.ico" height="30" /> &nbsp;&nbsp;
+  <img src="https://git-scm.com/favicon.ico" height="30" />
  </p>
+ <h2 align="center">Oranizations</h3>
  <p align="center">
-  <img src="https://git-scm.com/favicon.ico" height="30" /> 
+  <a href="https://github.com/backostech/"><img src="https://avatars.githubusercontent.com/u/109460039?s=200&v=4" height="50" /></a> &nbsp;&nbsp;
+  <a href="https://github.com/rebunitech/"><img src="https://avatars.githubusercontent.com/u/88507975?s=200&v=4" height="50" /></a>
  </p>
  <hr>
 
@@ -52,3 +48,11 @@
 ### Contributions
 * [aiogram](https://github.com/aiogram/agioram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp. 
 
+## Find Me
+<p align="center">
+  <a href="https://github.com/wendirad"><img src="https://github.com/fluidicon.png" height="40"></a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/wendirad-demelash"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" height="40"></a> &nbsp;&nbsp;
+  <a href="mailto:wendiradame@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="40"></a> &nbsp;&nbsp;
+  <a href="https://t.me/sco_ped"><img src="https://telegram.org/img/website_icon.svg" height="40"></a> &nbsp;&nbsp;
+  <a href="https://facebook.com/wendirad-demelash.1"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" height="40"></a>
+</p>
