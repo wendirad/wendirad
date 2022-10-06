@@ -36,7 +36,8 @@
 * [Analog Filter Design](https://github.com/rebunitech/analog.filter.design) - Python analog filter design for high frequency voice removal.
 * [Deterministic Finite Automata (DFA)](https://github.com/rebunitech/deterministic.finite.automata) - Deterministic Finite Automata (DFA) Implementation.
 * [Rebuni Online Education Platform](https://github.com/rebunitech/rebuni.online.education.platform) - Web based online education platform using native PHP with MVC.
-* [Dormitory Management System](https://github.com/wendirad/Dormtary-System) - Dormtary Management System with basic functionality using C++.
+* [Tena Transport | Digital Ticketing](https://github.com/TenaSoftware/tena.eticket) - Tena transport routes and ticket administration platform is a startup project working on transport providers in Ethiopia to create a better transport system in the whole country. 
+* [Dormitory Management System](https://github.com/wendirad/Dormtary-System) - Dormitory Management System with basic functionality using C++.
 * [3D Object Desgin](https://github.com/wendirad/cs1graphics---3D-objects) - Design 3D geometry objects using python cs1graphics module.
 
 ### Contributions
