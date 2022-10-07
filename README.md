@@ -27,6 +27,7 @@
 ## Projects
 ### Open Source
 * [YenePay Ptyhon SDK](https://github.com/backostech/yenepay.python.sdk) - A Python library that allows you to quickly and easily add YenePay as a payment method in to python project.
+* [The Automation](https://github.com/wendirad/the.automation) - A collection of simple task automation scripts. :wink:
 * [Telegram Media Exporter (TME)](https://github.com/Wendirad/t.me) - A Python script that extends Telethon functionalities, and create telegram media (only) export from chat.
 * [Python Telegram Bot Wiki](https://github.com/Wendirad/python-telegram-bot-wiki-mkdocs) - A python-telegram-bot wiki repository with mkdocs configuration to run locally.
   
