@@ -31,6 +31,7 @@
 * [Python Telegram Bot Wiki](https://github.com/Wendirad/python-telegram-bot-wiki-mkdocs) - A python-telegram-bot wiki repository with mkdocs configuration to run locally.
   
 ### Educational
+* [HON Compiler](https://github.com/rebunitech/hon.compiler) - HON is a simple, human-readable, JSON-like syntax language for describing HTML document.
 * [RSA Encryption](https://github.com/rebunitech/rsa.encryption) - A RSA implementation using Python with simple clients.
 * [SMS Span Detection](https://github.com/rebunitech/sms.spam.detection) - Spam message detector using Natural Language Processing.
 * [Analog Filter Design](https://github.com/rebunitech/analog.filter.design) - Python analog filter design for high frequency voice removal.
