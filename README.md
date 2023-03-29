@@ -4,7 +4,7 @@
 </p>
 
 <h2>About Me</h2>
-<p align="justify">ᴍᴏᴛɪᴠᴀᴛᴇᴅ ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴛʀᴀɪɴᴇᴅ ᴡɪᴛʜ 𝟹+ ʏᴇᴀʀs ᴏғ ᴇxᴘᴇʀɪᴇɴᴄᴇ. ʜɪɢʜʟʏ ᴇғғᴇᴄᴛɪᴠᴇ ᴀᴛ ʙᴀᴄᴋᴇɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ᴛᴀsᴋ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ. ᴇxᴄᴇᴘᴛɪᴏɴᴀʟ ɪɴᴛᴇʀᴘᴇʀsᴏɴᴀʟ, ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ, ᴀɴᴅ ᴍᴜʟᴛɪᴛᴀsᴋɪɴɢ ᴀʙɪʟɪᴛɪᴇs. ᴘʀᴇᴘᴀʀᴇᴅ ᴛᴏ ᴅᴇʟɪᴠᴇʀ ғɪʀsᴛ-ʀᴀᴛᴇ ʀᴇsᴜʟᴛs ᴛᴏ ᴄʟɪᴇɴᴛs. ɪ ᴀᴍ ᴀ ʏᴏᴜɴɢ ᴛᴀʟᴇɴᴛᴇᴅ ᴀғʀɪᴄᴀɴ, ᴀ sᴛʀᴏɴɢ ᴍᴏᴛɪᴠᴀᴛɪᴏɴ ғᴏʀ ᴡᴏʀᴋ, ᴀɴᴅ ʜᴀs sᴋɪʟʟs ᴡɪᴛʜ ʙᴇsᴛ ᴘʀᴀᴄᴛɪᴄᴇs. ɪ ᴄᴀɴ ᴡᴏʀᴋ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴠᴇʟʏ ɪɴ ᴅɪғғᴇʀᴇɴᴛ ᴡᴏʀᴋɪɴɢ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛs ᴀɴᴅ ᴛᴇᴀᴍ ᴄᴏᴍᴘᴏsɪᴛɪᴏɴs. ɪ ᴀᴍ ᴀʟᴡᴀʏs ʀᴇᴀᴅʏ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ɴᴇᴡ ɪᴅᴇᴀs ᴛᴏ ʙᴜɪʟᴅ ᴀ sᴛʀᴏɴɢ ᴛᴇᴄʜɴɪᴄᴀʟ ʙᴀᴄᴋɢʀᴏᴜɴᴅ, ᴀʟsᴏ ᴄᴀɴ ᴡᴏʀᴋ ᴏɴ ᴍᴏᴅɪғʏɪɴɢ ᴇxɪsᴛɪɴɢ ᴏʀ ᴀᴅᴅɪɴɢ ɴᴇᴡ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs ᴛᴏ ᴛʜᴇ ᴇxɪsᴛɪɴɢ sʏsᴛᴇᴍ.</p>
+<p align="justify">A Python developer with 3+ years of experience is a seasoned professional with a strong understanding of Python programming and has applied this knowledge to develop software applications and systems. As a Python developer, I have likely worked on a variety of projects, ranging from web development and data analysis to machine learning and artificial intelligence. With my experience, I have developed a strong understanding of software development methodologies, tools, and best practices. I am able to apply this knowledge to create high-quality software that meets the needs of users and businesses.</p>
 
 <hr />
 <h2 align="center">Tools</h3>
