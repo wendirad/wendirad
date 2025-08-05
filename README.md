@@ -1,10 +1,9 @@
 <h1 align="center">𝘏𝘐 👋, 𝘐𝘵'𝘴 𝘮𝘦 ƜЄƝƊƖƦƛƊ 🇪🇹</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Engineer-➕-blue?style=for-the-badge&logo=linux&logoColor=black&labelColor=green&color=ffffff" /><img src="https://img.shields.io/badge/Python%20Developer-➕-green?style=for-the-badge&logo=python&labelColor=ffff00&color=ffffff" /><img src="https://img.shields.io/badge/Competitive%20Programer--green?style=for-the-badge&logo=acm&labelColor=red&color=22272e" /> 
+  <img src="https://img.shields.io/badge/Computer%20Engineer-➕-blue?style=for-the-badge&logo=linux&logoColor=black&labelColor=green&color=ffffff" /><img src="https://img.shields.io/badge/Python%20Developer-➕-green?style=for-the-badge&logo=python&labelColor=ffff00&color=ffffff" /><img src="https://img.shields.io/badge/AI/ML%20Engineer--green?style=for-the-badge&logo=openai&labelColor=red&color=22272e" /> 
 </p>
 
-<h2>About Me</h2>
-<p align="justify">A Python developer with 4+ years of experience is a seasoned professional with a strong understanding of Python programming and has applied this knowledge to develop software applications and systems. As a Python developer, I have likely worked on a variety of projects, ranging from web development and data analysis to machine learning and artificial intelligence. With my experience, I have developed a strong understanding of software development methodologies, tools, and best practices. I am able to apply this knowledge to create high-quality software that meets the needs of users and businesses.</p>
+<p align="justify">A Python Developer with a strong background in Computer Science and Engineering, specializing in web development, AI, and machine learning. Proficient in Python, Django, PostgreSQL, MongoDB, PyTorch, and TensorFlow. Experienced in developing scalable solutions, machine learning models, and automation tools.</p>
 
 <hr />
 <h2 align="center">Tools</h3>
