@@ -65,7 +65,16 @@
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
+Computer Vision, Deep Learning, PyTorch, TensorFlow, Machine Learning Engineering, Data Engineering
 
+  <h3> Skillset</h3>
+  <p>
+      <a href="https://en.wikipedia.org/wiki/Machine_learning"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-00A3E0?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>
+      <a href="https://opencv.org"><img alt="Computer Vision" src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"></a>
+      <a href="https://en.wikipedia.org/wiki/Deep_learning"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge&logo=keras&logoColor=white"></a>
+      <a href="https://pytorch.org"><img alt="Diffusion Models" src="https://img.shields.io/badge/Diffusion_Models-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+  </p>
+  
   <h3>💻 Languages & OS</h3>
 
   <p>
